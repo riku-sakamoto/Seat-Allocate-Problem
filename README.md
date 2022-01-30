@@ -1,5 +1,8 @@
 # 量子アニーリングマシンによる座席配置問題の解法
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riku-sakamoto/Seat-Allocate-Problem/main?labpath=seat_allocation.ipynb)
+
+
 ## はじめに
 
 本プログラムはIPA（独立行政法人情報処理推進機構）が2021年11月から2022年2月にかけて主催した、量子コンピューティング技術実践講座（アニーリングマシン）による成果です。
